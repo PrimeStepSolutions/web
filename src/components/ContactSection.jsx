@@ -21,7 +21,7 @@ const ContactItem = ({ icon: Icon, title, content, link }) => (
 
 const ContactUsPage = () => {
   const handlePhoneClick = () => {
-    const phoneNumber = "8328291760"; // Your phone number
+    const phoneNumber = "918328291760"; // Your phone number
     window.open(`https://wa.me/${phoneNumber}`, '_blank'); // Opens WhatsApp
   };
 
@@ -36,7 +36,7 @@ const ContactUsPage = () => {
   };
 
   const handleInstagramClick = () => {
-    window.open('https://www.instagram.com/your-instagram-profile', '_blank');
+    window.open('https://www.instagram.com/primestep_solutions', '_blank');
   };
 
   return (
