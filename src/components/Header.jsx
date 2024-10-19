@@ -20,8 +20,8 @@ function Header() {
       <div className="container w-full bg-white mx-auto px-4 py-4 z-10 fixed">
         <div className="flex justify-between items-center ">
           <div className="flex items-center pl-16">
-            <img src="/1.png" alt="PrimeStep Solutions Logo" className="h-10 w-auto" />
-            <img src="/2.png" alt="PrimeStep Solutions Logo" className="h-7 w-auto" />
+            <img src="/web/1.png" alt="PrimeStep Solutions Logo" className="h-10 w-auto" />
+            <img src="/web/2.png" alt="PrimeStep Solutions Logo" className="h-7 w-auto" />
           </div>
 
           <nav className="hidden md:flex space-x-6 pr-16">

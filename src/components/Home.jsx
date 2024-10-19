@@ -46,7 +46,7 @@ At PrimeStep Solutions, we transform your ideas into reality with customized ser
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <motion.img 
-              src="/3.png" 
+              src="/web/3.png" 
               alt="Innovative Solutions" 
               className="w-4/5 h-auto mx-auto"
               initial={{ y: 0 }}
@@ -62,7 +62,7 @@ At PrimeStep Solutions, we transform your ideas into reality with customized ser
               animate={{ rotate: 360 }}
               transition={{ duration: 10, repeat: Infinity, ease: "linear" }}
             >
-            <img src="/gear.png" alt="Innovation" className="w-10 h-10" />
+            <img src="/web/gear.png" alt="Innovation" className="w-10 h-10" />
             </motion.div>
             <motion.div 
               className="absolute bottom-1/4 left-15"
@@ -70,7 +70,7 @@ At PrimeStep Solutions, we transform your ideas into reality with customized ser
               animate={{ scale: [0, 1.2, 1] }}
               transition={{ duration: 2, repeat: Infinity, repeatType: "reverse" }}
             >
-              <img src="/bul.png" alt="Ideas" className="w-12 h-12 " />
+              <img src="/web/bul.png" alt="Ideas" className="w-12 h-12 " />
             </motion.div>
           </motion.div>
         </div>

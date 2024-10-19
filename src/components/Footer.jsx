@@ -34,10 +34,10 @@ const Footer = () => {
           <div className="w-full lg:w-1/4 px-4 mb-6 lg:mb-0">
             <div className="flex items-center mb-4">
               <a href="#home" className="mr-2">
-                <img src="/1.png" alt="PrimeStep Solutions Logo" className="h-10 w-auto" />
+                <img src="/web/1.png" alt="PrimeStep Solutions Logo" className="h-10 w-auto" />
               </a>
               <a href="#home">
-                <img src="/4.png" alt="PrimeStep Solutions Logo" className="h-7 w-auto" />
+                <img src="/web/4.png" alt="PrimeStep Solutions Logo" className="h-7 w-auto" />
               </a>
             </div>
             <p className="text-[#52656C] text-sm mb-4">
