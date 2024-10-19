@@ -50,7 +50,7 @@ const AboutSection = () => {
                         transition={{ duration: 0.8 }}
                     >
                         <img
-                            src="/image.png"
+                            src="/web/image.png"
                             alt="PrimeStep Team"
                             className="w-full h-auto object-cover"  // Ensures full-width and no shadow/border
                             style={{ display: 'block', borderRadius: '0px' }} // Removed rounded corners and shadow
